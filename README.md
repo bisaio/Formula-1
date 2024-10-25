@@ -1,2 +1,1 @@
-# Formula-1
- 
+Projeto de um site sobre Formula 1 que consome uma API
